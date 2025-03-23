@@ -1,0 +1,13 @@
+/home/marco/Applications/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/marco/Applications/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/marco/CLionProjects/LCSOpenMPI -B /home/marco/CLionProjects/LCSOpenMPI/cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    LCS/LCS.cu
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: LCSOpenMPI
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

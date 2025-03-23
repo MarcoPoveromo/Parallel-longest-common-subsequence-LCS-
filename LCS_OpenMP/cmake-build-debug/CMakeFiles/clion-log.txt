@@ -1,0 +1,4 @@
+/home/marco/Applications/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/marco/Applications/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/marco/CLionProjects/LCS_OpenMP -B /home/marco/CLionProjects/LCS_OpenMP/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/marco/CLionProjects/LCS_OpenMP/cmake-build-debug

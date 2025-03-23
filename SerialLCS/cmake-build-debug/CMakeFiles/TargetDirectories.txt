@@ -1,0 +1,3 @@
+/home/marco/CLionProjects/SerialLCS/cmake-build-debug/CMakeFiles/SerialLCS.dir
+/home/marco/CLionProjects/SerialLCS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/CLionProjects/SerialLCS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/marco/CLionProjects/LCSOpenMPI/cmake-build-debug/CMakeFiles/LCSOpenMPI.dir
+/home/marco/CLionProjects/LCSOpenMPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/CLionProjects/LCSOpenMPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

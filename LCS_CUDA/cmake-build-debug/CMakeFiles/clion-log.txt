@@ -1,0 +1,10 @@
+/home/marco/Applications/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/marco/Applications/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/marco/CLionProjects/LCS_CUDA -B /home/marco/CLionProjects/LCS_CUDA/cmake-build-debug
+-- The CUDA compiler identification is NVIDIA 8.0.61
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /usr/local/cuda/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/marco/CLionProjects/LCS_CUDA/cmake-build-debug
