@@ -1,4 +1,4 @@
-# Parallel longest common subsequence (LCS)
+# [Parallel longest common subsequence (LCS)](http://MarcoPoveromo.github.io/Parallel-longest-common-subsequence-LCS-/docs/SCP___Longest_common_subsequence.pdf)
 In computational biology it is still a research topic to find strategies for
 optimizing sequence alignment. The LCS is referred to the longest common
 subsequence, and is an effective method to solve this problem. Generally,
